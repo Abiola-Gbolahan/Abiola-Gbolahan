@@ -24,6 +24,8 @@ As a person who love to share knowledge of what he knows, I have written many ar
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@abiola0001/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@abiola0001/1" alt="Recent Article 1">
 
+(twitter) [https://www.twitter.com/Abiola123]
+
 
 
 
