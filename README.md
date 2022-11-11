@@ -12,7 +12,7 @@ Welcome to my Github Profile!
 - 🌱 I’m currently learning Machine-learning
 - 👯 I’m looking to collaborate, contribute and volunteer on a new data science project 
 - 🤔 I’m looking for help and guide with machine learning
-- 💬 Ask me about python programing language
+- 💬 Ask me about Data Science
 - 📫 How to reach me:
 
 
