@@ -5,7 +5,7 @@ I'm Gbolahan!
 
 pronoun: He/Him
 
-I am a technical writer and Certified data science. I am currently learning machine-learning  on Datacamp.Fews of my projects done are shown on my repositories.
+I am a technical writer and Certified data science. I am currently learning machine-learning  on Datacamp. fews of my projects done are shown on my repositories.
 
 Welcome to my Github Profile!
 - 🔭 I’ve worked on numerous data science project.
@@ -13,15 +13,18 @@ Welcome to my Github Profile!
 - 👯 I’m looking to collaborate, contribute and volunteer on a new data science project 
 - 🤔 I’m looking for help and guide with machine learning
 - 💬 Ask me about python programing language
-- 📫 How to reach me: +2348032059153
+- 📫 How to reach me:
+
+
+     -[Twitter](www.twitter.com/abiolagbolahan3)
+     
+     -[Linkedin](https://www.linkedin.com/in/abiola-gbolahan-alabi-897432169)
+     
+     -[Email](omogbolahan0001@gmail.com)
+     
+     -Tel no: +2348032059153
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: QWERTY keyboard was designed to slow down the typing speed
-
-Socials:
-
-[Twitter](www.twitter.com/abiolagbolahan3)
-[Linkedin](https://www.linkedin.com/in/abiola-gbolahan-alabi-897432169)
-[Email](omogbolahan0001@gmail.com)
 
 
 As a person who love to share knowledge of what he knows, I have written many articles relating to tech, belows are few of it:
