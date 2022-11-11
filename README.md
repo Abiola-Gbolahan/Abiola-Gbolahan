@@ -18,7 +18,13 @@ Welcome to my Github Profile!
 - ⚡ Fun fact: QWERTY keyboard was designed to slow down the typing speed
 
 socials:
+
 [Twitter](www.twitter.com/abiolagbolahan3)
+
+[Linkedin](https://www.linkedin.com/in/abiola-gbolahan-alabi-897432169))
+
+[Email](omogbolahan0001@gmail.com)
+
 
 As a person who love to share knowledge of what he knows, I have written many articles relating to tech, belows are few of it:
 
