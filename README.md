@@ -13,16 +13,14 @@ Welcome to my Github Profile!
 - 👯 I’m looking to collaborate, contribute and volunteer on a new data science project 
 - 🤔 I’m looking for help and guide with machine learning
 - 💬 Ask me about python programing language
-- 📫 How to reach me: omogbolahan0001gmail.com
+- 📫 How to reach me: +2348032059153
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: QWERTY keyboard was designed to slow down the typing speed
 
-socials:
+Socials:
 
 [Twitter](www.twitter.com/abiolagbolahan3)
-
-[Linkedin](https://www.linkedin.com/in/abiola-gbolahan-alabi-897432169))
-
+[Linkedin](https://www.linkedin.com/in/abiola-gbolahan-alabi-897432169)
 [Email](omogbolahan0001@gmail.com)
 
 
