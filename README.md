@@ -15,8 +15,8 @@ Furthermore, I have a strong practical experience in data analysis and visualiza
 
 🔭 Companies I have volunteered for:
 
-- Team Lead - Data Analysis Project, NYSC Camp (Sokoto State) | Community Builder (Machine Learning).
-- Data Analyst volunteer - Customer Feedback Analysis for a Retail Business.
+- Data Analyst, NYSC Camp (Sokoto State) | Team Lead.
+- Data Analyst volunteer | Customer Feedback Analysis for a Retail Business.
 - Data Science Nigeria | Student Data Science Lead
 - Data Collection Specialist - WeCare Co
 - medium | General niche Writer
