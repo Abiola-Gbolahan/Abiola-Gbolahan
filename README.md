@@ -3,7 +3,7 @@
 Hello, I'm Abiola Gbolahan Alabi. Passionate about **Data Analysis, Data Science (ML) and Artificial Intelligence.**
 
 ## 👨‍🎓 About Me 💼🎒
-I hold a Bachelors Degree in Computer Science (Ed) at Ekiti State University. I have 3+ years of experience as a Data analyst, turning messy data into actionable insights.
+I hold a Bachelors Degree in Computer Science (Ed) at [Ekiti State University](https://eksu.edu.ng/). I have 3+ years of experience as a Data analyst, turning messy data into actionable insights.
 
 Furthermore, I have a strong practical experience in data analysis and visualization, Web/Blog Content writing, and presentation of findings to non-technical teams.
 
