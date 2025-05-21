@@ -32,8 +32,8 @@ These valuable tools and techniques have empowered me to successfully develop an
 Python | Tensorflow | Scikit-Learn | Scipy | Numpy | Pandas | Plotly | Pytorch | Json | Power-bi | Keras | MySql | Conda | Google colab | Microsoft Excel | Powerpoint |  | Google BigQuery | Postgresql | Pandas | Seaborn | Matplotlib
 
 ## 👋🏻 Connect with Me
-[X(formerly Twitter)](https://x.com/habiola4you1)
-[Linkedin](www.linkedin.com/in/abiola-gbolahan-alabi-897432169)
+- [X(formerly Twitter)](https://x.com/habiola4you1)
+- [Linkedin](www.linkedin.com/in/abiola-gbolahan-alabi-897432169)
 
 
 
