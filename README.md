@@ -24,7 +24,7 @@ Furthermore, I have a strong practical experience in data analysis and visualiza
 🔭 Checkout my [Resume/CV](https://drive.google.com/file/d/1cmTb5fj30tvU-hRUa453hZEosOW8Q99u/view?usp=sharing )
 
 ## 📚 Projects
-Welcome to my portfolio, where I showcase [my projects]([https://github.com/Abiola-Gbolahan/Data-Analysis]).
+Welcome to my portfolio, where I showcase [my projects](https://github.com/Abiola-Gbolahan/Data-Analysis).
 
 ## 🛠️ Tools
 These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning and data analysis projects:
