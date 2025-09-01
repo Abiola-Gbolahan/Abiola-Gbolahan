@@ -24,22 +24,15 @@ Furthermore, I have a strong practical experience in data analysis and visualiza
 🔭 Checkout my [Resume/CV](https://drive.google.com/file/d/1cmTb5fj30tvU-hRUa453hZEosOW8Q99u/view?usp=sharing )
 
 ## 📚 Projects
-Welcome to my portfolio, where I showcase [my projects](https://github.com/Abiola-Gbolahan/portfolio-directory).
+Welcome to my portfolio, where I showcase [my projects]([https://github.com/Abiola-Gbolahan/Data-Analysis]).
 
 ## 🛠️ Tools
 These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning and data analysis projects:
 
-Python | Tensorflow | Scikit-Learn | Scipy | Numpy | Pandas | Plotly | Pytorch | Json | Power-bi | Keras | MySql | Conda | Google colab | Microsoft Excel | Powerpoint |  | Google BigQuery | Postgresql | Pandas | Seaborn | Matplotlib
+Python | Tensorflow | Scikit-Learn | seaborn | Numpy | Pandas | Plotly | Pytorch | Json | Power-bi | Visualisation | PostgreSQL | Conda | Google colab | Microsoft Excel | Powerpoint | data cleaning | Google BigQuery | Postgresql | Pandas | Seaborn | Matplotlib | Data Wrangling| Data entry|
 
 ## 👋🏻 Connect with Me
 - [X(formerly Twitter)](https://x.com/habiola4you1)
 - [Linkedin](www.linkedin.com/in/abiola-gbolahan-alabi-897432169)
-
-
-
-
-
-
-
 
 
